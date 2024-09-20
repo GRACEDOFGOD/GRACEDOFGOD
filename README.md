@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Responsive Web Design Projects:</h2>
 
-- <b>Building a Cat Photo App(AlgoExpert)</b>
+- <b>Survey Form Project</b>
   - [Praciting DS & Algos in Python](https://github.com/GRACEDOFGOD/COACH-REPOSITORY)
 - <b> Building a Cafe Menu, Completed</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
