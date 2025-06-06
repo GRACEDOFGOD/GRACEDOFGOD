@@ -1,4 +1,32 @@
-<h1>Hi, I'm Eniitan! <br/><a href="https://github.com/GRACEDOFGOD">Python Programmer</a>, <a href="https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b">Python Data scientist</a>,<a href="https://skillshop.exceedlms.com/profiles/3d536116b95d473baef0d5ccf4e36e3b">Google Profile Optimization Expert</a></h1>
+<h1>Hi, I'm Eniitan! <br/><a href="https://github.com/GRACEDOFGOD">Python Programmer</a>, <a href="https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b">Python Data scientist</a>,<a href="https://skillshop.exceedlms.com/profiles/3d536116b95d473baef0d5ccf4e36e3b">Google Profile Optimization Expert</a></h1><h1>Certified TEFL Teacher</h1>
+
+<h2>🤖 Machine Learning Projects:</h2>
+
+- <b>ImpactStore Profit Prediction Challenge – Zindi Hackathon Submission</b>  
+  - [🔗 GitHub Repo](https://github.com/yourusername/ImpactStore-ML-Prediction)  
+  - 📌 A clean, high-performance machine learning pipeline predicting item-level returns across Nigerian retail stores using XGBoost, LightGBM, CatBoost, Ridge Stacking, and sharp engineered features.  
+  - 🛠 Tools: Python, Pandas, Scikit-learn, XGBoost, LightGBM, RidgeCV  
+  - 🧠 Techniques: Feature Engineering, Model Stacking, Cross-Validation, Submission Generation  
+  - 🙏 Dedicated to God Almighty by Eniitan Oluwatoyin Shadrack
+<h2>📊 Data Analytics Projects:</h2>
+
+<h2>🧠 Data Science Projects:</h2>
+
+- <b>British Airways Data Science Virtual Internship (Forage)</b>  
+  - [🔗 GitHub Repo](https://github.com/yourusername/BritishAirways-DataScience-Internship)  
+  - 📌 Completed a real-world data science simulation for British Airways via Forage, including customer segmentation, machine learning model development, and stakeholder insight delivery.  
+  - ✅ Successfully completed both required tasks and received an official certificate from Forage and British Airways.  
+  - 🛠 Tools: Python (Pandas, Scikit-learn, Seaborn), Jupyter Notebook, Data Visualization  
+  - 🧠 Skills: Clustering, Data Cleaning, Predictive Modeling, Insight Communication
+
+
+- <b>TATA Group Data Analyst Virtual Internship (Forage)</b>  
+  - [🔗 GitHub Repo](https://github.com/yourusername/TATA-Data-Analyst-Internship)  
+  - 📌 Completed all tasks in the TATA Virtual Internship Simulation on Forage, including data cleaning, exploratory analysis, business reporting, and stakeholder communication.  
+  - 🛠 Tools: Excel, Power BI, Python (Pandas, Matplotlib), Google Slides  
+  - 🧠 Skills: Business Insight Generation, Dashboarding, Root Cause Analysis, Storytelling  
+  - ✅ Certified by Forage in collaboration with Tata Group
+
 
 <h2>👨‍💻 Responsive Web Design Projects:</h2>
 
