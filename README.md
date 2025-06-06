@@ -3,7 +3,7 @@
 <h2>🤖 Machine Learning Projects:</h2>
 
 - <b>ImpactStore Profit Prediction Challenge – Zindi Hackathon Submission</b>  
-  - [🔗 GitHub Repo](https://github.com/yourusername/ImpactStore-ML-Prediction)  
+  - [🔗 GitHub Repo](https://github.com/GRACEDOFGOD/ImpactStore-ML-Prediction)  
   - 📌 A clean, high-performance machine learning pipeline predicting item-level returns across Nigerian retail stores using XGBoost, LightGBM, CatBoost, Ridge Stacking, and sharp engineered features.  
   - 🛠 Tools: Python, Pandas, Scikit-learn, XGBoost, LightGBM, RidgeCV  
   - 🧠 Techniques: Feature Engineering, Model Stacking, Cross-Validation, Submission Generation  
@@ -13,7 +13,6 @@
 <h2>🧠 Data Science Projects:</h2>
 
 - <b>British Airways Data Science Virtual Internship (Forage)</b>  
-  - [🔗 GitHub Repo](https://github.com/yourusername/BritishAirways-DataScience-Internship)  
   - 📌 Completed a real-world data science simulation for British Airways via Forage, including customer segmentation, machine learning model development, and stakeholder insight delivery.  
   - ✅ Successfully completed both required tasks and received an official certificate from Forage and British Airways.  
   - 🛠 Tools: Python (Pandas, Scikit-learn, Seaborn), Jupyter Notebook, Data Visualization  
@@ -21,7 +20,6 @@
 
 
 - <b>TATA Group Data Analyst Virtual Internship (Forage)</b>  
-  - [🔗 GitHub Repo](https://github.com/yourusername/TATA-Data-Analyst-Internship)  
   - 📌 Completed all tasks in the TATA Virtual Internship Simulation on Forage, including data cleaning, exploratory analysis, business reporting, and stakeholder communication.  
   - 🛠 Tools: Excel, Power BI, Python (Pandas, Matplotlib), Google Slides  
   - 🧠 Skills: Business Insight Generation, Dashboarding, Root Cause Analysis, Storytelling  
