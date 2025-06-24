@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eniitan! <br/><a href="https://github.com/GRACEDOFGOD">Python Programmer</a>, <a href="https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b">Python Data scientist</a>,<a href="https://skillshop.exceedlms.com/profiles/3d536116b95d473baef0d5ccf4e36e3b">Google Profile Optimization Expert</a></h1><h1>Certified TEFL Teacher</h1>
+<h1>Hi, I'm Eniitan! <br/><a href="https://github.com/GRACEDOFGOD">Python Programmer</a>, <a href="https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b">Python Data scientist</a>,<a href="https://skillshop.exceedlms.com/profiles/3d536116b95d473baef0d5ccf4e36e3b">Google Profile Optimization Expert</a></h1><h1>Certified Data Scientist/TEFL Teacher/Ai Content creator</h1>
 
 <h2>🤖 Machine Learning Projects:</h2>
 
@@ -71,6 +71,7 @@
 [twitter]: https://x.com/Eniitan001
 [instagram]: https://www.instagram.com/eniitanoluwatoyin/
 [linkedin]:https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b
+[facebook]: https://web.facebook.com/eniitan.oluwatoyin.9/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
