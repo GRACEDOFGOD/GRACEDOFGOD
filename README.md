@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eniitan Oluwatoyin Shadrack! 👋</h1>
+<h1>Hi, I'm Eniitan Oluwatoyin Shadrack! 👋</h1>
 <h3 align="center">
 Certified Data Scientist | Data Analyst | Python Programmer | AI-Powered App Builder | TEFL Educator | Entrepreneur
 </h3>
