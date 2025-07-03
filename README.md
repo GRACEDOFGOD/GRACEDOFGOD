@@ -58,11 +58,11 @@ Certified Data Scientist | Data Analyst | Python Programmer | AI-Powered App Bui
 
 ## 📊 Data Analytics & Visualization Projects
 
-- <b>British Airways Simulation</b>  
+- <b>British Airways Job Simulation</b>  
   📎 Real-world ML and stakeholder insight project  
   🛠 Pandas, Clustering, Visualization  
 
-- <b>TATA Group Simulation</b>  
+- <b>TATA Group Job Simulation</b>  
   📎 Data wrangling, reporting, stakeholder communication  
   🛠 Excel, Power BI, Python, Google Slides  
 
