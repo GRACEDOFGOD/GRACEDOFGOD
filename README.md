@@ -33,9 +33,9 @@ Certified Data Scientist | Data Analyst | Python Programmer | AI-Powered App Bui
 
 ## 🆕 Latest Projects
 
-- 🔹 <b><a href="https://github.com/GRACEDOFGOD/kultra-mega-stores-bi-project">Kultra Mega Stores BI Project</a></b> – Advanced retail business intelligence with Power BI  
-- 🔹 <b><a href="https://github.com/GRACEDOFGOD/Amazon_Data_review_analysis">Amazon Product Review Analysis</a></b> – NLP sentiment analysis on real customer feedback  
-- 🔹 <b><a href="https://github.com/GRACEDOFGOD/Graced-Data-Cleaner">Graced Data Cleaner</a></b> – A smart data cleaning web app with export features  
+- 🔹 <b><a href="https://github.com/GRACEDOFGOD/kultra-mega-stores-bi-project">Milestone project for DSA (Kultra Mega Stores BI Project)</a></b> – Advanced retail business intelligence with Power BI  
+- 🔹 <b><a href="https://github.com/GRACEDOFGOD/Amazon_Data_review_analysis">Milestone project for DSA (Amazon Product Review Analysis)</a></b> – NLP sentiment analysis on real customer feedback  
+- 🔹 <b><a href="https://github.com/GRACEDOFGOD/Graced-Data-Cleaner">A personal project God help me build (Graced Data Cleaner)</a></b> – A smart data cleaning web app with export features(in progress) 
 
 ---
 
