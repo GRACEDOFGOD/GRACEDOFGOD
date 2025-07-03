@@ -1,9 +1,9 @@
 <h1>Hi, I'm Eniitan Oluwatoyin Shadrack! 👋</h1>
-<h3 align="center">
+<h3></h3>
 Certified Data Scientist | Data Analyst | Python Programmer | AI-Powered App Builder | TEFL Educator | Entrepreneur
 </h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/GRACEDOFGOD">GitHub</a> •
   <a href="https://www.linkedin.com/in/eniitan-oluwatoyin-93ab9022b">LinkedIn</a> •
   <a href="https://eniitanoluwatoyin.lovable.app">Portfolio Website</a> •
